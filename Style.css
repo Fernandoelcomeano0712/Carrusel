@@ -1,0 +1,26 @@
+body {
+    background-image: url("henry-cavill-attends-netflixs-enola-holmes-2-world-premiere-news-photo-1683270713.jpg");
+    text-align: center;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+}
+
+#app {
+    background-color: rgb(33, 123, 201);
+}
+
+#game{
+    background-color:lightcoral;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
